@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/IT3-G2-Maqram-/FileContentIndex/f008a859-793b-464e-b302-91af7f283a30.vsidx
+/.vs/IT3-G2-Maqram-/v17/.suo
+/.vs/IT3-G2-Maqram-/FileContentIndex/e22c254a-e788-4c87-b109-851fd81f140c.vsidx
+/.vs/IT3-G2-Maqram-/FileContentIndex/06af87c9-9c18-4abf-9a40-540bc3f1ce4c.vsidx
+/.vs/IT3-G2-Maqram-/FileContentIndex/8c1148dd-c109-4790-990f-31099179cfb1.vsidx
+*.vsidx
+/.gitignore
